@@ -95,7 +95,7 @@ DATABASES = {
         'USER': 'root',          # Default XAMPP user
         'PASSWORD': '',          # Default XAMPP password is empty
         'HOST': '127.0.0.1',     # Use IP to avoid "localhost" timeout issues
-        'PORT': '3307',
+        'PORT': '3306',
     }
 }
 
